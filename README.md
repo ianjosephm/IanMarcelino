@@ -1,2 +1,9 @@
 # IanMarcelino
-Collection of my data analytics projects using SQL, Excel, and Power BI. 
+
+An experienced Chemical Engineer with significant experience in data driven
+decision making. With extensive knowledge in data cleaning, data analysis,
+and data visualization. 
+
+You can visit my Linkedin [**Profile**](https://www.linkedin.com/in/ian-joseph-marcelino-b11bb5153/)
+
+
