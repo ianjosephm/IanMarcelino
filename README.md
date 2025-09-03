@@ -7,7 +7,7 @@ and data visualization and with hands-on experience in building dashboards, fore
 You can visit my Linkedin [**Profile**](https://www.linkedin.com/in/ian-joseph-marcelino-b11bb5153/)
 
 ## Certificates
-* Google Data Analytics Certificate
+* Google Data Analytics Certificate <br>
     [Ask Questions to Make Data-Driven Decisions](https://github.com/ianjosephm/IanMarcelino/blob/9ccff54192fca7875d33dc4b561c2e36dbaa5613/1.%20Ask%20Questions%20to%20Make%20Data-Driven%20Decisions.pdf) <br>
     [Foundations: Data, Data Everywhere](https://github.com/ianjosephm/IanMarcelino/blob/9ccff54192fca7875d33dc4b561c2e36dbaa5613/2.%20Foundations%20Data%2C%20Data.%20Everywhere.pdf)<br>
     [Analyze Data to Answer Questions](https://github.com/ianjosephm/IanMarcelino/blob/9ccff54192fca7875d33dc4b561c2e36dbaa5613/3.%20Analyze%20Data%20to%20Answer%20Questions.pdf)<br>
